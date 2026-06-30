@@ -4,7 +4,8 @@ const fileConfig = {
   },
   
   elements: {
-
+    charterData: document.querySelector('.charterData'),
+    charterDataTablet: document.querySelector('.charterDataTablet'),
   }
 };
 
